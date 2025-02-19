@@ -9,8 +9,8 @@ Hostname:       REDACTED
 
 Tracing route to 10.50.35.36 over a maximum of 30 hops
 
-  1     2 ms     1 ms     1 ms  192.168.33.254
-  2    25 ms    24 ms    26 ms  10.50.35.36
+  1     2 ms     1 ms     1 ms  192.168.0.1
+  2    25 ms    24 ms    26 ms  10.11.12.13
 
 Trace complete.
 ---------------------------------------
@@ -21,8 +21,8 @@ Hostname:       REDACTED
 
 Tracing route to 10.50.35.36 over a maximum of 30 hops
 
-  1     2 ms     1 ms     3 ms  192.168.33.254
-  2    26 ms    25 ms    25 ms  10.50.35.36
+  1     2 ms     1 ms     3 ms  192.168.0.1
+  2    26 ms    25 ms    25 ms  10.11.12.13
 
 Trace complete.
 ---------------------------------------
