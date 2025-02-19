@@ -7,7 +7,7 @@ Trace count:    37
 Time:           19/02/2025 13:07
 Hostname:       REDACTED
 
-Tracing route to 10.50.35.36 over a maximum of 30 hops
+Tracing route to 10.11.12.13 over a maximum of 30 hops
 
   1     2 ms     1 ms     1 ms  192.168.0.1
   2    25 ms    24 ms    26 ms  10.11.12.13
@@ -19,7 +19,7 @@ Time:           19/02/2025 13:07
 Hostname:       REDACTED
 
 
-Tracing route to 10.50.35.36 over a maximum of 30 hops
+Tracing route to 10.11.12.13 over a maximum of 30 hops
 
   1     2 ms     1 ms     3 ms  192.168.0.1
   2    26 ms    25 ms    25 ms  10.11.12.13
