@@ -1,4 +1,4 @@
-A powerShell script that runs traceroute (tracert) in a loop. Includes timestamp and device hostname. Prints to console & saves to a file (same directory as where the .ps1 script is stored).
+A PowerShell script that runs traceroute (tracert) in a loop. Includes timestamp and device hostname. Prints to console & saves to a file (same directory as where the .ps1 script is stored).
 
 # Example output:
 ```
