@@ -1,10 +1,10 @@
 # Author: Bogdans Krutilins (bkr1haya@gmail.com)
 # Date: 19/02/25
-# Version: 1.0.0
+# Version: 1.0.1
 # License: GPLv3
 
 $ip_argument = $args[0]
-$trace_count = 0
+$trace_count = 1
 
 if (!$ip_argument)
 {
