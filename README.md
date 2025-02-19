@@ -1,6 +1,7 @@
 A powerShell script that runs traceroute (tracert) in a loop. Includes timestamp and device hostname. Prints to console & saves to a file.
 
-Example output:
+# Example output:
+```
 ---------------------------------------
 Trace count:    37
 Time:           19/02/2025 13:07
@@ -25,3 +26,4 @@ Tracing route to 10.50.35.36 over a maximum of 30 hops
 
 Trace complete.
 ---------------------------------------
+```
