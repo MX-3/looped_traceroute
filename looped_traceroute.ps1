@@ -1,6 +1,6 @@
 # Author: Bogdans Krutilins (bkr1haya@gmail.com)
 # Date: 19/02/25
-# Version: 1.00
+# Version: 1.0.0
 # License: GPLv3
 
 $ip_argument = $args[0]
